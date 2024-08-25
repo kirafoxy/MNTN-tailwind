@@ -4,7 +4,7 @@ export default function Slider(){
     return(
         <div className="text-white fixed bottom-80 tracking-wide container flex flex-col w-20 h-40  text-xl gap-y-10 font-abel items-end font-bold right-10 scroll-smooth ">
             
-            <a href="#hero-content" className="">Start</a>
+            <a href="#contents" className="">Start</a>
 
             <ul className=" flex flex-col gap-y-10 ">
                 <li className="">
