@@ -9,7 +9,7 @@ import './index.css'
 function App() {
 
   return (
-    <div className='scroll-smooth'>
+    <div>
     <MainPage/>
     <Content/>
     <Footer/>
