@@ -1,4 +1,5 @@
 
+import Footer from './Components/Common/Footer'
 import Content from './Components/Content/Content'
 import MainPage from './Components/MainPage/MainPage'
 import './index.css'
@@ -8,9 +9,10 @@ import './index.css'
 function App() {
 
   return (
-    <div>
+    <div className='scroll-smooth'>
     <MainPage/>
     <Content/>
+    <Footer/>
     </div>
   )
 }
